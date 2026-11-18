@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cultivaplant.com.br/sitemap.xml
